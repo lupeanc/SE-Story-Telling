@@ -6,7 +6,7 @@ our heroin was snorted by our hero and began to see visions:
 300: The man with gray hair 
 	A man with gray hair is sitting at a desk with a very long quill in his hand. He dips the quill in white powder and begins writing in it while snorting the words he has written, as if to take in the story, making himself part of it. You think you recognize him from somewhere...
 ----310: F-father..?!
-----320: Excuse me, who are you??
+----320: "Excuse me, who are you??"
 
 
 
@@ -57,6 +57,6 @@ CONTINUED AT 201
 
 
 
-
-
-
+320: The man pays no attention to you, rocking back and forth in his chair gleefully yet fully focused, with his eyes fixed on the pages, thinking to himself "Yeees, yeees...", humming to himself some kind of a song. A mischievous smile widens on his face...you don't even know if he actually acknowledged your presence
+---- 321: You stay in silence, frozen like a deer in its final moments before the speeding car. You wait patiently for 3-5 minutes.
+---- 322: You don't have time for this! You repeat your question louder in a demanding tone.
