@@ -2,6 +2,16 @@ This was written by: Dragos, Alex, Isac Dragos, Clay and Levi of team Frustacean
 
 our heroin was snorted by our hero and began to see visions:
 100: wealth, fame and power	
+<<<<<<< HEAD
+=======
+200: visions of a lost past	
+300: The man with gray hair 
+	A man with gray hair is sitting at a desk with a very long quill in his hand. He dips the quill in white powder and begins writing in it while snorting the words he has written, as if to take in the story, making himself part of it. You think you recognize him from somewhere...
+----310: F-father..?!
+----320: "Excuse me, who are you??"
+
+
+>>>>>>> bdc706e40db35082ab4bfe9b9bacf1d69d002042
 
 100: Wealth, fame, power, our hero has attained everything a man could desire.
 Being head of the Italian mafia, he was feared by every man in Palermo. But,
@@ -21,6 +31,12 @@ She was working with the police to bring him down from the very beggining, in th
 Now his life was compromised. A mafia head can't really trust anyone, 
 to meet.
 
+<<<<<<< HEAD
+=======
+
+Some old family pictures, a scratched nightstand, a messily repainted bed.. an empty room, overall.
+
+>>>>>>> bdc706e40db35082ab4bfe9b9bacf1d69d002042
 200: Some old family pictures, a scratched nightstand, a messily repainted bed.. an empty room, overall.
 No one there. No one else, that is, but the hero, and his hauting pal.
 
@@ -38,6 +54,12 @@ He didn't.
 And then the creature decided to leave the filthy, disgustingly graphic human alone.
 Probably the end.. or n o t?
 
+<<<<<<< HEAD
+=======
+CONTINUED AT 201
+
+201:
+>>>>>>> bdc706e40db35082ab4bfe9b9bacf1d69d002042
 A more serious approach --------------
 "Get. Up", the creature insisted firmly.
 "...", the hero remained silent, and turned his head away.
@@ -46,6 +68,7 @@ He could feel the creature's eyes roaming over him, his limp body, his lack of m
 Instead, it simply sighed. And it did in such a way that the hero could feel the weight of it, the anger, , the bitterness,but most of all, the disappointment, and yet the familiarity of it all.
 
 Maybe it wasn't a creature afterall. Maybe it was *him*.
+<<<<<<< HEAD
 CONTINUED AT 201
 
 300: The man with gray hair 
@@ -58,3 +81,22 @@ CONTINUED AT 201
 	You realise your life will finally come around! You are actually destined for great things, you just need to consume your father's magic powder - the source of god essence that he is manifesting into reality - so that you can actually have enough power to fight the forces of evil. Lucky you, thine whole life you've been preparing for this, as you already were consuming thy own form of magic powder, to be prepared for such a moment... you and your father both inhale the core of deities, until you both pass out, never to awake again. Some say you and your father are still saving the world...
 
 ----320: Excuse me, who are you??
+=======
+CONTINUED AT 202
+
+
+202: It was his father and he had forgotten your mother's brthday again. he was begging the hero for help. the hero wouldnt. he feared the wrath of his mother. the end.
+
+
+
+
+320: The man pays no attention to you, rocking back and forth in his chair gleefully yet fully focused, with his eyes fixed on the pages, thinking to himself "Yeees, yeees...", humming to himself some kind of a song. A mischievous smile widens on his face...you don't even know if he actually acknowledged your presence
+---- 321: You stay in silence, frozen like a deer in its final moments before the speeding car. You wait patiently for 3-5 minutes.
+---- 322: You don't have time for this! You repeat your question louder in a demanding tone.
+
+321: You wait, as he shouts "I GOT IT!", writes furiously on the paper, clenching his quill in his fist, and almost tearing the paper with it. After he's done with his violent scribbling, he notices you, and says: "WHAT...oh sorry hehe, I must've not noticed you, yeah this can be a side effect of overdose, lemme just transport you back to your reality". Suddenly you close your eyes and wake up on the road with all of your roads gone, with a note next to you...
+"Sorry! Next time stay away from heroin. - Zareus" END
+
+322: "WHO ARE YOU?!" he shouts "HOW DARE YOU DISTURB ZAREUS, GOD OF PLAYWRIGHTS! For your insolence, I will banish you into my story, and I'll play around with your soul for eternity for my amusement!"
+Suddenly your eyes shut forcefully as you feel pulling on all parts of your body, and suddenly you're transported into a camp full of survivors, as an army of armed skeletons approaches. You wake up with a wooden sword and a note next to you, on which it reads: "Let's see how you fare against this... - Zareus" END
+>>>>>>> bdc706e40db35082ab4bfe9b9bacf1d69d002042
