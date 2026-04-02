@@ -1,2 +1,6 @@
-This was written by: Dragos, Alex of team Frustaceans
+<<<<<<< HEAD
+This was written by: Isac Dragos of team Frustaceans
+=======
+This was written by: Dragos, Alex, Isac Dragos of team Frustaceans
 
+>>>>>>> c56132d6ee5fb4dbfa979482e82e99d554a44c3f
